@@ -23,7 +23,7 @@ Before running the project, ensure you have the following installed:
 ### Web Scraping
 - Extracted job listings using XPATH to retrieve structured data fields.
 - Managed challenges like empty fields and inconsistencies due to HTML structure.
-- [View Web Scrapping Script.]([https://github.com/juwitardiyanti/SQL_personal_project/blob/main/northwind_sample_database/northwind.sql](https://github.com/juwitardiyanti/Linkedln-Web-Scrapping/blob/main/web-scrapping.ipynb])
+- [View Web Scrapping Script.](https://github.com/juwitardiyanti/SQL_personal_project/blob/main/northwind_sample_database/northwind.sql](https://github.com/juwitardiyanti/Linkedln-Web-Scrapping/blob/main/web-scrapping.ipynb)
 
 ### Data Cleaning
 1. **Data Understanding and Cleansing**:
