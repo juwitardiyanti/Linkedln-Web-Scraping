@@ -12,7 +12,6 @@ Before running the project, ensure you have the following installed:
 - ChromeDriver (matching your Chrome browser version)
 - Selenium library
 - Pandas library
-- OpenPyXL library (for writing to Excel)
 
 ## Objectives
 1. **Web Scraping**: Extract job listing data from LinkedIn, including details such as job title, company, location, job level, and employment type.
