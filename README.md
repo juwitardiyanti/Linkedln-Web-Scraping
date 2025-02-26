@@ -44,7 +44,7 @@ Before running the project, ensure you have the following installed:
 5. **Column Selection**:
    - Retained only relevant columns: `date`, `company`, `title`, `location`, `city`, `province`, `level`, `type`, `function`, `industry`, and `title_category`.
 
-- [View Data Cleaning Script](https://github.com/juwitardiyanti/Linkedln-Web-Scrapping/blob/main/data_Cleaning_Linkedln.ipynb)
+- [View Data Cleaning Script](https://github.com/juwitardiyanti/Linkedln-Web-Scrapping/blob/main/data_Cleaning_Linkedln.ipynb](https://github.com/juwitardiyanti/Linkedln-Web-Scraping/blob/main/DataCleaningLinkedln%20(1).ipynb))
 
 ## Dataset Overview
 The final dataset includes the following columns:
